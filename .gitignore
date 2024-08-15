@@ -1,4 +1,7 @@
 venv/
+icons/
+*.jpg
+*.png
 .DS_Store
 .huskyrc.json
 out
