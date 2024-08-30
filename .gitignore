@@ -1,5 +1,8 @@
 venv/
 _old/
+IN/
+OUT/
+*.zip
 icons/
 *.jpg
 *.png
